@@ -45,7 +45,3 @@ Run:
 ```bash
 python exp-4-activation_spaces/activation_space.py
 ```
-
-## License
-
-[MIT License](LICENSE)
